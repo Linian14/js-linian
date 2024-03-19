@@ -25,6 +25,6 @@ const myAge= 16;
 const yourAge= 20;
 console.log(`i am ${myAge} years old`);
 console.log(`you are ${yourAge} years old`);
-
+console.log("I added random stuff")
 
 
