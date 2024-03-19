@@ -15,11 +15,11 @@ let Student= true;
 
 var firstname= 'Linian';
 var lastname= 'Azu';
-var martialstatus= 'single';
+var martialstatus= 'married';
 var country= 'USA';
-var age= '16';
+var age= '32';
 
-const firstname= 'Linian',lastname='Azu', martialstatus= 'single',country= 'USA', age= '16';
+const firstname= 'Linian',lastname='Azu', martialstatus= 'married',country= 'USA', age= '32';
 
 const myAge= 16;
 const yourAge= 20;
